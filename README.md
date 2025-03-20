@@ -43,6 +43,9 @@ At its core, Our World™ combines an intelligent AI assistant with user-driven 
 # Clone the repository
 git clone https://github.com/yourusername/our-world.git
 
+# If you have trouble cloning and downloading Node libraries with npm, run:
+npm init -y
+
 # Navigate to project directory
 cd our-world
 
